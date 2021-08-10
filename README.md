@@ -1,11 +1,5 @@
-// CRIANDO PROJETO
-// npm init
+//Instalando dependências
+//npm i
 
-//REQUESTS
-//npm install express
-
-//NODEMON FACILITAR DESENVOLVIMENTO
-//npm install -D nodemon
-
-//DOTENV 
-//npm install dotenv
+//Levantando serviço 
+//npm run dev
